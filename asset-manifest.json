@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://omkaar1.github.io/csb-wdqy3z/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://omkaar1.github.io/csb-wdqy3z/static/js/main.4870a0b4.chunk.js",
+    "main.js.map": "https://omkaar1.github.io/csb-wdqy3z/static/js/main.4870a0b4.chunk.js.map",
+    "runtime-main.js": "https://omkaar1.github.io/csb-wdqy3z/static/js/runtime-main.add9122f.js",
+    "runtime-main.js.map": "https://omkaar1.github.io/csb-wdqy3z/static/js/runtime-main.add9122f.js.map",
+    "static/js/2.33b4144f.chunk.js": "https://omkaar1.github.io/csb-wdqy3z/static/js/2.33b4144f.chunk.js",
+    "static/js/2.33b4144f.chunk.js.map": "https://omkaar1.github.io/csb-wdqy3z/static/js/2.33b4144f.chunk.js.map",
+    "index.html": "https://omkaar1.github.io/csb-wdqy3z/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://omkaar1.github.io/csb-wdqy3z/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.33b4144f.chunk.js.LICENSE.txt": "https://omkaar1.github.io/csb-wdqy3z/static/js/2.33b4144f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.add9122f.js",
+    "static/js/2.33b4144f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.4870a0b4.chunk.js"
+  ]
+}
